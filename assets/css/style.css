@@ -28,7 +28,7 @@ body {
     transition: transform 0.3s;
 }
 
-/*.card-header {
+.card-header {
     position: relative;
     top: -20px;
     left: 50%;
@@ -41,7 +41,7 @@ body {
     text-align: center;
     border: 1px solid #ddd;
     pointer-events: none;
-}*/
+}
 
 .card:hover {
     transform: translateY(-10px);
